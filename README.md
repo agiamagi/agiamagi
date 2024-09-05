@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [-](-)
 
-- ⚡ Fun fact **-**
+- ⚡ Fun fact **The Rüppell's griffon vulture is the world's highest-flying bird.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
