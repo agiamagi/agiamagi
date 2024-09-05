@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Agito</h1>
 <h3 align="center">A Game Developer from Brazil.</h3>
 
-<img align="center" alt="coding" src="/gundam-wing-mobile-suit-gundam-wing.gif>
+![image](https://github.com/user-attachments/assets/6697b862-5aae-4577-9eb4-c5a4efd6d245)
+
 
 - 🌱 I’m currently learning **Flutter/ Dart**
 
