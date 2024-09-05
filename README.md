@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agito</h1>
+<h1 align="center">I'm Agito</h1>
 <h3 align="center">A Game Developer from Brazil.</h3>
 
 ![gundam-wing-mobile-suit-gundam-wing](https://github.com/user-attachments/assets/ab000ef9-32d3-44f8-85cf-5c2bf177d169)
