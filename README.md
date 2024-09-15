@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<h1 align="center">I am Agito</h1>
-<h3 align="center">A Game Developer from Brazil.</h3>
-=======
 <h1 align="center">I'm Agito</h1>
 <h3 align="center">A programming student from Brazil.</h3>
->>>>>>> 346327977ffecc28877462bae8dc166c5138ec2d
 
 <div align="center">
     <img src="/gundam-wing-mobile-suit-gundam-wing.gif" alt="gundam-wing-mobile-suit-gundam-wing"/>
