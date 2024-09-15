@@ -2,7 +2,7 @@
 <h3 align="center">A Game Developer from Brazil.</h3>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ab000ef9-32d3-44f8-85cf-5c2bf177d169" alt="gundam-wing-mobile-suit-gundam-wing"/>
+    <img src="/gundam-wing-mobile-suit-gundam-wing.gif" alt="gundam-wing-mobile-suit-gundam-wing"/>
 </div>
 
 - 🌱 I’m currently learning **Flutter/ Dart**
