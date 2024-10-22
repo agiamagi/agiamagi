@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter|Dart**
 
-- 👯 I’m looking to collaborate on **Websites, games, Apps, etc**
+- 🤝 I’m looking to collaborate on **Websites, games, Apps, etc**
 
-- 🤝 I’m looking for help with **Game Development|Networking**
+- 🔰 I’m looking for help with **Game Development|Networking**
 
 - ⚡ Fun fact **The Rüppell's griffon vulture is the world's highest-flying bird.**
 
