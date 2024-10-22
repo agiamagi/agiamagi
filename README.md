@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-<h3 align="center">A software engineering student from Brazil.</h3>
+<h3 align="center">I am a software engineering student from Brazil.</h3>
 
 <div align="center">
     <img src="/gundam-wing-mobile-suit-gundam-wing.gif" alt="gundam-wing-mobile-suit-gundam-wing"/>
