@@ -5,7 +5,7 @@
     <img src="/gundam-wing-mobile-suit-gundam-wing.gif" alt="gundam-wing-mobile-suit-gundam-wing"/>
 </div>
 
-- 🌱 I’m currently learning **Flutter|Dart**
+- 🌱 I’m currently learning **ABAP**
 
 - 🤝 I’m looking to collaborate on **Websites, games, Apps, etc**
 
